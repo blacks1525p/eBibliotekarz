@@ -1,0 +1,155 @@
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\bin\Release\ebibliotekarz.exe
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+\\beta\okucharczyk\Dokumenty\pobieranie\Projekt\0.50\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\bin\Release\ebibliotekarz.exe
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+D:\Documents\Visual Studio 2013\Projects\0.52\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\bin\Release\ebibliotekarz.exe
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+C:\Users\Melhir\Desktop\test\0.67\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\bin\Release\ebibliotekarz.exe
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Melhir\Desktop\test\0.73\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\bin\Release\ebibliotekarz.exe
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+C:\Users\Melhir\Desktop\0.79\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\bin\Release\ebibliotekarz.exe
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormDown.resources
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+d:\Patryk\ZUT\Projekt\GUI\0.955\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\bin\Release\ebibliotekarz.exe
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormDown.resources
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+C:\Users\Melhir\Desktop\0.997\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\bin\Release\ebibliotekarz.exe
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormDown.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9975\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormDown.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\bin\Release\ebibliotekarz.exe
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+d:\Patryk\ZUT\Projekt\GUI\0.9978\ebibliotekarz\bin\Release\HtmlAgilityPack.xml
+C:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\bin\Release\ebibliotekarz.exe.config
+C:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.exe
+C:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.pdb
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.csprojResolveAssemblyReference.cache
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form1.resources
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormHistory.resources
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormDown.resources
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.FormQ.resources
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.Form_error.resources
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.Properties.Resources.resources
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\obj\x86\Release\ebibliotekarz.csproj.GenerateResource.Cache
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\bin\Release\ebibliotekarz.exe
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\bin\Release\ebibliotekarz.pdb
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\bin\Release\HtmlAgilityPack.dll
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\bin\Release\HtmlAgilityPack.pdb
+c:\Users\Blackn\Downloads\1.0\1.0\ebibliotekarz\bin\Release\HtmlAgilityPack.xml

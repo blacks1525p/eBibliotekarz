@@ -1,0 +1,29 @@
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\bin\Debug\ebibliotekarz_v._0._30.exe.config
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\bin\Debug\ebibliotekarz_v._0._30.exe
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\bin\Debug\ebibliotekarz_v._0._30.pdb
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\bin\Debug\HtmlAgilityPack.dll
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\bin\Debug\HtmlAgilityPack.xml
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\obj\x86\Debug\ebibliotekarz_v._0._30.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\obj\x86\Debug\ebibliotekarz_v._0._30.FormHistory.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\obj\x86\Debug\ebibliotekarz_v._0._30.Form_error.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\obj\x86\Debug\ebibliotekarz_v._0._30.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\obj\x86\Debug\ebibliotekarz v.0.30.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\obj\x86\Debug\ebibliotekarz_v._0._30.exe
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.26\obj\x86\Debug\ebibliotekarz_v._0._30.pdb
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\bin\Debug\ebibliotekarz_v._0._30.exe.config
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz_v._0._30.exe
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz_v._0._30.pdb
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\bin\Debug\ebibliotekarz_v._0._30.exe
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\bin\Debug\ebibliotekarz_v._0._30.pdb
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\bin\Debug\HtmlAgilityPack.dll
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\bin\Debug\HtmlAgilityPack.xml
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz v.0.30.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz_v._0._30.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz_v._0._30.FormHistory.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz_v._0._30.Form_error.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz_v._0._30.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz v.0.30.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\obj\x86\Debug\ebibliotekarz_v._0._30.FormQ.resources
+D:\Documents\Visual Studio 2013\Projects\ebibliotekarz v.0.26 — kopia\ebibliotekarz v.0.30\bin\Debug\ebibliotekarz_v._0._35.exe.config

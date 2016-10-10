@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\bin\Debug\gui_v._0._20.exe.config
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\obj\x86\Debug\gui_v._0._20.exe
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\obj\x86\Debug\gui_v._0._20.pdb
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\obj\x86\Debug\gui_v.0.21.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\obj\x86\Debug\gui_v._0._21.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\obj\x86\Debug\gui_v.0.21.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\bin\Debug\gui_v._0._20.exe
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\bin\Debug\gui_v._0._20.pdb
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\bin\Debug\HtmlAgilityPack.dll
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\bin\Debug\HtmlAgilityPack.xml
+D:\Documents\Visual Studio 2010\Projects\gui_v.0.01 — kopia — kopia — kopia\gui_v.0.21\obj\x86\Debug\gui_v._0._21.Properties.Resources.resources
